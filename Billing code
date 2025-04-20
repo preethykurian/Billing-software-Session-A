@@ -1,3 +1,6 @@
 read item1, item 2, item 3...item n
 sum=sum+item
 print sum
+ if the sum is greater than 500 add 10% discount else
+5%
+end if
